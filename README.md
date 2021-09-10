@@ -8,11 +8,11 @@ The languages I am proficient in are:
 
 In the future, I want to work with different frameworks and APIs to fully get a grasp of what they do and how they can be implemented into my aspirations.
 
-My favourite quote is: 
+##My favourite quote is: 
 
 *Only those who dare to fail greatly can ever achieve greatly.* - Robert F. Kennedy
 
-# Collaboration
+## Collaboration
 At the moment I am still relatively new to collaboration work. However if you are from a codecademy career path and is looking for any help or any collaborations on projects, please feel free to message me on discord zokkow0w.
 
 As always have a great day.
