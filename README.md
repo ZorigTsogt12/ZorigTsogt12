@@ -8,7 +8,7 @@ The languages I am proficient in are:
 
 In the future, I want to work with different frameworks and APIs to fully get a grasp of what they do and how they can be implemented into my aspirations.
 
-##My favourite quote is: 
+## My favourite quote is: 
 
 *Only those who dare to fail greatly can ever achieve greatly.* - Robert F. Kennedy
 
